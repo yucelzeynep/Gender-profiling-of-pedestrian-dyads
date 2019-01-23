@@ -1,5 +1,3 @@
-# gender_profiling_of_pedestrian_dyads
-
 This repository involves the source code used in deriving the results reported in the following publication:
 
 Yücel, Z., Zanlungo, F., Feliciani, C., Gregorj, A., Kanda, T.
