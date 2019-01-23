@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+emd
+Number of epochs: 80
+Train ratio: 0.3
+Hierarchical: off
+Observables: ['v_g', 'h_diff']
+
+-----------------------------------
+
+trajectory_based: 
+	males	females	mixed	
+males	68.83	21.77	9.40	
+females	38.56	49.15	12.28	
+mixed	30.03	33.47	36.50	
+Cum:	53.61	

@@ -1,0 +1,25 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+bayesian_indep
+Number of epochs: 20
+Train ratio: 0.3
+Hierarchical: off
+Observables: ['d', 'v_g', 'v_diff', 'h_avg', 'h_diff']
+Alpha: 1
+
+-----------------------------------
+
+binary_by_event: 
+	males	females	mixed	
+males	72.14	11.38	16.48	
+females	13.27	63.02	23.71	
+mixed	22.77	25.31	51.91	
+Cum:	63.17	
+-----------------------------------
+
+binary_by_trajectory_probability: 
+	males	females	mixed	
+males	78.99	8.54	12.47	
+females	15.00	65.13	19.87	
+mixed	24.75	24.50	50.76	
+Cum:	66.59	
